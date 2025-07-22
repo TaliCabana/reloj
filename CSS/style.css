@@ -1,9 +1,15 @@
-body{
-    min-height: 100vh;
-    display:flex;
-    flex-direction: column;
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
-main{
-    flex-grow: 1;
+main {
+  flex-grow: 1;
+}
+
+.card-body {
+  background-color: rgb(2, 54, 53);
+  border-color: rgb(3, 118, 116);
+  box-shadow: 0px 0px 25px rgb(3, 118, 116);
 }
