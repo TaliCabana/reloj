@@ -4,8 +4,7 @@ Este proyecto muestra un reloj digital en vivo que incluye la **fecha completa c
 
 ## 🚀 Demo del proyecto
 
-Mirá la demo del proyecto [aquí](https://relojtali.netlify.app/) 👀  
-
+Mirá la demo del proyecto [aquí](https://relojtali.netlify.app/) 👀
 
 ### 🔧 Tecnologías utilizadas 🛠
 
@@ -13,7 +12,6 @@ Mirá la demo del proyecto [aquí](https://relojtali.netlify.app/) 👀
 - CSS3
 - JavaScript - ECMAScript 2025
 - [Bootstrap v5.3](https://getbootstrap.com/)
-
 
 ### 🧠 Conceptos aplicados
 
@@ -25,7 +23,6 @@ Mirá la demo del proyecto [aquí](https://relojtali.netlify.app/) 👀
 - Condicionales `if` y operadores ternarios
 - Bootstrap para maquetado responsivo y uso de `card`
 
-
 ## Cómo ejecutar el proyecto 💻
 
 1. Cloná el repositorio escribiendo en una terminal el siguiente comando:  
@@ -34,7 +31,9 @@ Mirá la demo del proyecto [aquí](https://relojtali.netlify.app/) 👀
 
 ---
 
-### Autora 👩🏽‍💻  
-**Tali Cabana**  
-- [LinkedIn](https://www.linkedin.com/in/paula-cabana-ingenieraindustrial/)  
+### Autora 👩🏽‍💻
+
+**Tali Cabana**
+
+- [LinkedIn](https://www.linkedin.com/in/paula-cabana-ingenieraindustrial/)
 - [GitHub](https://github.com/TaliCabana)
